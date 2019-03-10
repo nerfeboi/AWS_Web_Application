@@ -4,7 +4,7 @@ Welcome to the AWS CodeStar sample web application
 This sample code helps get you started with a simple Java web application
 deployed by AWS CodeDeploy and AWS CloudFormation to an Amazon EC2 server.
 
-What's Here
+What's Here:
 -----------
 
 This sample includes:
